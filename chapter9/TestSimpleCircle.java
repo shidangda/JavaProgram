@@ -1,4 +1,4 @@
-package chpater9;
+package chapter9;
 
 public class TestSimpleCircle {
 
